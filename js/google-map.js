@@ -1,5 +1,5 @@
 
-var google;
+var map = new MapmyIndia.Map("map",{ center:[18.460287040977285, 73.88362656788428],zoomControl: true,hybrid:true });
 
 function init() {
     // Basic options for a simple Google Map

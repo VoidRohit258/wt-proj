@@ -12,7 +12,7 @@
   <script src="./js/bootstrap-datepicker.js"></script>
   <script src="./js/jquery.timepicker.min.js"></script>
   <script src="./js/scrollax.min.js"></script>
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
+  <script src="https://apis.mapmyindia.com/advancedmaps/v1/ishwiji1lmf5bkvl6sn5u5crvnhxm584/map_load?v=1.3"></script>
   <script src="./js/google-map.js"></script>
   <script src="./js/main.js"></script>
   <script src="./action.js"></script>
@@ -20,7 +20,7 @@
   
   <script>
 // Set the date we're counting down to
-var countDownDate = new Date("Apr 12, 2019 10:00:00").getTime();
+var countDownDate = new Date("Apr 25, 2021 10:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {

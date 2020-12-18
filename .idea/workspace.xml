@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4dec9c0-6e89-4db3-9a26-482590f98dc5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/includes/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/action.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/action.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cssjs/css.php" beforeDir="false" afterPath="$PROJECT_DIR$/cssjs/css.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cssjs/js.php" beforeDir="false" afterPath="$PROJECT_DIR$/cssjs/js.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/google-map.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/google-map.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,11 +42,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608006099161</updated>
-      <workItem from="1608006115496" duration="516000" />
+      <workItem from="1608006115496" duration="3165000" />
+      <workItem from="1608040770725" duration="34000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
