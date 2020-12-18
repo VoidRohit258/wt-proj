@@ -77,7 +77,7 @@ if (!$con) {
 				echo "
 			<div class='alert alert-danger'>
 				<a href='#' class='close' data-dismiss='alert' aria-label='close'>&times;</a>
-				<b>Email Address is already available Try Another email address</b>
+				<b>Email Address is already registered. Try Another email address</b>
 			</div>
 		";
 				exit();
@@ -95,9 +95,10 @@ if (!$con) {
 				if (mysqli_query($con, $sql)) {
 					echo "register_success";
 					echo "<script> location.href='index.php'; </script>";
-					exit;
 				}
-				http_redirect("vuwt.herokuapp.com");
+				header("Location:https://vuwt.herokuapp.com/index.php");
+				//http_redirect('../index.php');
+				exit;
 			}
 		}
 

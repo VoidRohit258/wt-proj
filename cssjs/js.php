@@ -20,7 +20,7 @@
   
   <script>
 // Set the date we're counting down to
-var countDownDate = new Date("Apr 25, 2021 10:00:00").getTime();
+var countDownDate = new Date("Jan 15, 2021 12:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
@@ -44,7 +44,7 @@ var x = setInterval(function() {
   // If the count down is over, write some text 
   if (distance < 0) {
     clearInterval(x);
-    document.getElementById("demo").innerHTML = "Welcome to CSE fest";
+    document.getElementById("demo").innerHTML = "Welcome to VU";
   }
 }, 1000);
 </script>
