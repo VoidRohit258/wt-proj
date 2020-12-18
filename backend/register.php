@@ -84,10 +84,9 @@ if (!$con) {
 			} else {
 
 				$sql = "INSERT INTO `participent` 
-		(`user_id`, `first_name`, `last_name`, `email`, 
-		`password`, `mobile`, `address1`, `address2`) 
+		(`user_id`, `fullname`,`email`,`mobile`) 
 		VALUES (NULL, '$f_name', '$email', 
-		 '$mobile', '$address1')";
+		 '$mobile')";
 				$run_query = mysqli_query($con, $sql);
 				$_SESSION["uid"] = mysqli_insert_id($con);
 				$_SESSION["name"] = $f_name;
