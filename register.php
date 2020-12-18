@@ -28,7 +28,7 @@ include "cssjs/css.php";
        </div>
         <div class="row block-9">
           <div class="col-md-6 pr-md-5">
-            <form id="signup_form" class="was-validated" action="backend/register.php" method="post">
+            <form id="signup_form" class="was-validated" action="backend/register.php" method="post" onsubmit=alert("Submitted!");>
               <div class="form-group" >
                 <input type="text " name="f_name" class="form-control field-border" placeholder="Your Name"  required>
               </div>
