@@ -1,8 +1,6 @@
 <?php
 session_start();
 include "../db/connect.php";
-function registerme()
-{
 	if (isset($_POST["f_name"])) {
 
 		$f_name = $_POST["f_name"];
@@ -131,7 +129,6 @@ function registerme()
 		}
 
 	}
-}
 
 
 ?>
