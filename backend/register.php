@@ -99,7 +99,7 @@ function registerme()
 				exit();
 			}
 			//existing email address in our database
-			$sql = "SELECT user_id FROM user_info WHERE email = '$email' LIMIT 1";
+			$sql = "SELECT user_id FROM participent WHERE email = '$email' LIMIT 1";
 			$check_query = mysqli_query($con, $sql);
 			$count_email = mysqli_num_rows($check_query);
 			if ($count_email > 0) {
@@ -112,7 +112,7 @@ function registerme()
 				exit();
 			} else {
 
-				$sql = "INSERT INTO `user_info` 
+				$sql = "INSERT INTO `participent` 
 		(`user_id`, `first_name`, `last_name`, `email`, 
 		`password`, `mobile`, `address1`, `address2`) 
 		VALUES (NULL, '$f_name', '$l_name', '$email', 
