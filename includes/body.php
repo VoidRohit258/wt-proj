@@ -334,8 +334,8 @@
 		                    </span>
 		                  </div>
 		                  <div class="text ml-md-4">
-		                    <p class="mb-5">Dr .R.Balakrishna is currently working as a Professor & Principal, Dept. of Computer Science and Engineering since 2010. His research and professional career spans about 15 years of Teaching & research, 1 Year Industrial Experience at TCS. His expertise is primarily in the domains of Ad hoc Networks, Mobile Computing, Networks, and Distributed OS.</p>
-		                    <p class="name">Dr. R. Balakrishna</p>
+		                    <p class="mb-5">Dr. Bharati Ainapure is currently working as a Professor & Principal, Dept. of Computer Science and Engineering since 2010. His research and professional career spans about 15 years of Teaching & research, 1 Year Industrial Experience at TCS. His expertise is primarily in the domains of Ad hoc Networks, Mobile Computing, Networks, and Distributed OS.</p>
+		                    <p class="name">Dr. Bharti Ainapure</p>
 		                    <span class="position">Professor and Principal</span>
 		                  </div>
 		                </div>
@@ -348,8 +348,8 @@
 		                    </span>
 		                  </div>
 		                  <div class="text ml-md-4">
-		                    <p class="mb-5">S. Usha, is working as a professor and head , CSE, RRCE. Graduated from Manonmanium Sundaranar University, in Computer Science and Engineering during the year 1998. She obtained her Master degree in Computer Science and Engineering and PhD degree from sathyabama university in the area of Mobile Ad Hoc Networks in the year 2013. She has 54 publications in International and National conferences, 22 publication in national journal and international journals in the area of Mobile Ad hoc Networks and wireless security.</p>
-		                    <p class="name">Dr. Usha S</p>
+		                    <p class="mb-5">Milind Kulkarni, is working as a professor and head , CSE, RRCE. Graduated from Manonmanium Sundaranar University, in Computer Science and Engineering during the year 1998. She obtained her Master degree in Computer Science and Engineering and PhD degree from sathyabama university in the area of Mobile Ad Hoc Networks in the year 2013. She has 54 publications in International and National conferences, 22 publication in national journal and international journals in the area of Mobile Ad hoc Networks and wireless security.</p>
+		                    <p class="name">Dr. Milind Vilind Kulkarni</p>
 		                    <span class="position">Professor & HOD</span>
 		                  </div>
 		                </div>
