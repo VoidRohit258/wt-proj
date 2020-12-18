@@ -53,8 +53,8 @@
             <div class="media block-6 services d-block text-center">
               <div class="d-flex justify-content-center"><div class="icon"><span class="flaticon-guarantee"></span></div></div>
               <div class="media-body p-2 mt-2">
-                <h3 class="heading mb-3">Best Price Guarantee</h3>
-                <p>A small river named Duden flows by their place and supplies.</p>
+                <h3 class="heading mb-3">Lowest priced events</h3>
+                <p>A small river named Duden flows by their place and supplies.</p> <!--Description-->
               </div>
             </div>      
           </div>
@@ -62,8 +62,8 @@
             <div class="media block-6 services d-block text-center">
               <div class="d-flex justify-content-center"><div class="icon"><span class="flaticon-like"></span></div></div>
               <div class="media-body p-2 mt-2">
-                <h3 class="heading mb-3">Travellers Love Us</h3>
-                <p>A small river named Duden flows by their place and supplies.</p>
+                <h3 class="heading mb-3">Best Outreach</h3>
+                <p>A small river named Duden flows by their place and supplies.</p> <!--Description-->
               </div>
             </div>    
           </div>
@@ -71,8 +71,8 @@
             <div class="media block-6 services d-block text-center">
               <div class="d-flex justify-content-center"><div class="icon"><span class="flaticon-detective"></span></div></div>
               <div class="media-body p-2 mt-2">
-                <h3 class="heading mb-3">Best Travel Agent</h3>
-                <p>A small river named Duden flows by their place and supplies.</p>
+                <h3 class="heading mb-3">Best Competition</h3>
+                <p>A small river named Duden flows by their place and supplies.</p> <!--Description-->
               </div>
             </div>      
           </div>
@@ -81,7 +81,7 @@
               <div class="d-flex justify-content-center"><div class="icon"><span class="flaticon-support"></span></div></div>
               <div class="media-body p-2 mt-2">
                 <h3 class="heading mb-3">Our Dedicated Support</h3>
-                <p>A small river named Duden flows by their place and supplies.</p>
+                <p>A small river named Duden flows by their place and supplies.</p> <!--Description-->
               </div>
             </div>      
           </div>
@@ -92,8 +92,7 @@
     	<div class="container">
     		<div class="row justify-content-start mb-5 pb-3">
           <div class="col-md-7 heading-section ftco-animate">
-          	<span class="subheading">Banners</span>
-            <h2 class="mb-4"><strong>Events</strong> Posters</h2>
+            <h2 class="mb-4"><strong>Event</strong> Posters</h2>
           </div>
         </div>
     		<div class="row">
@@ -101,7 +100,7 @@
     				<div class="single-slider owl-carousel ftco-animate">
     					<div class="item">
 		    				<div class="destination">
-		    					<a href="#" class="img d-flex justify-content-center align-items-center" style="background-image: url(images/cs01.jpg);">
+		    					<a href="#" class="img d-flex justify-content-center align-items-center" style="background-image: url(images/bg_1.jpg);">
 		    						
 		    					</a>
 		    					
@@ -117,7 +116,7 @@
 	    				</div>
 	    				<div class="item">
 		    				<div class="destination">
-		    					<a href="#" class="img d-flex justify-content-center align-items-center" style="background-image: url(images/cs03.jpg);">
+		    					<a href="#" class="img d-flex justify-content-center align-items-center" style="background-image: url(images/bg_6.jpg);">
 		    						
 		    					</a>
 		    					
@@ -125,7 +124,7 @@
 	    				</div>
 	    				<div class="item">
 		    				<div class="destination">
-		    					<a href="#" class="img d-flex justify-content-center align-items-center" style="background-image: url(images/destination-4.jpg);">
+		    					<a href="#" class="img d-flex justify-content-center align-items-center" style="background-image: url(images/bg_7.jpg);">
 		    						
 		    					</a>
 		    					
@@ -133,7 +132,7 @@
 	    				</div>
 	    				<div class="item">
 		    				<div class="destination">
-		    					<a href="#" class="img d-flex justify-content-center align-items-center" style="background-image: url(images/destination-5.jpg);">
+		    					<a href="#" class="img d-flex justify-content-center align-items-center" style="background-image: url(images/bg_4.jpg);">
 		    						
 		    					</a>
 		    					
@@ -141,7 +140,7 @@
 	    				</div>
 	    				<div class="item">
 		    				<div class="destination">
-		    					<a href="#" class="img d-flex justify-content-center align-items-center" style="background-image: url(images/destination-6.jpg);">
+		    					<a href="#" class="img d-flex justify-content-center align-items-center" style="background-image: url(images/bg_3.jpg);">
 		    						
 		    					</a>
 		    					
@@ -157,8 +156,8 @@
     	<div class="container" id="0">
     		<div class="row justify-content-start mb-5 pb-3">
              <div class="col-md-7 heading-section ftco-animate">
-          	<span class="subheading">events</span>
-            <h2 class="mb-4"><strong>Book Your</strong>  Faviourate Event</h2>
+          	<span class="subheading">Events</span>
+            <h2 class="mb-4"><strong>Book your</strong> favorite Event</h2>
           </div>
         </div>  
     		<div class="row" id="technical" >

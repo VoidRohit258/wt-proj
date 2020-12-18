@@ -1,5 +1,5 @@
 <head>
-    <title>WT Project - Yash, Naveen, Chinmoy, Renuka</title>
+    <title>WT Project - Yash, Navin, Chinmay, Renuka</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     

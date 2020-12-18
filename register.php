@@ -36,38 +36,11 @@ include "cssjs/css.php";
                 <input type="text" name="email" class="form-control field-border" placeholder="Your Email" required>
               </div>
               <div class="form-group">
-                <input type="text" name="subject" class="form-control field-border" placeholder="Subject" required>
+                <input type="text" name="event" class="form-control field-border" placeholder="Event" required>
               </div>
               <div class="form-group">
                 <input type="text" name="phone" class="form-control field-border" placeholder="Phone" required>
               </div>
-              
-              <div class="col-md-12">
-                <div class="row">
-                  <div class="form-group col-md-6">
-                    <div class="col-auto my-1">
-                          <select class="custom-select mr-lg-2  field-border" id="inlineFormCustomSelect" required>
-                          <option selected>Choose...</option>
-                          <option value="1">One</option>
-                          <option value="2">Two</option>
-                          <option value="3">Three</option>
-                        </select>
-                        <div class="invalid-feedback">Example invalid custom select feedback</div>
-                    </div>
-                  </div>
-                  <div class="form-group col-md-6">
-                    <div class="col-auto my-1">
-                          <select class="custom-select mr-lg-2 field-border" id="inlineFormCustomSelect" required>
-                          <option selected>Choose...</option>
-                          <option value="1">One</option>
-                          <option value="2">Two</option>
-                          <option value="3">Three</option>
-                        </select>
-                        <div class="invalid-feedback">Example invalid custom select feedback</div>
-                    </div>
-                  </div>
-              </div>
-            </div>
               <div class="form-group">
                 <input  value="Register" type="submit" name="signup_button" class="btn btn-primary py-3 px-5 " required>
               </div>

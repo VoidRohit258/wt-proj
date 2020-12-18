@@ -18,17 +18,17 @@ if (!$con) {
 		$f_name = $_POST["f_name"];
 		$email = $_POST["email"];
 		$mobile = $_POST["phone"];
-		$address1 = $_POST["subject"];
+		$event = $_POST["event"];
 		$name = "/^[a-zA-Z ]+$/";
 		$emailValidation = "/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9]+(\.[a-z]{2,4})$/";
 		$number = "/^[0-9]+$/";
 
-		if (empty($f_name) || empty($email) || empty($address1) ||
+		if (empty($f_name) || empty($email) || empty($event) ||
 			empty($mobile)) {
 
 			echo "
 			<div class='alert alert-warning'>
-				<a href='#' class='close' data-dismiss='alert' aria-label='close'>&times;</a><b>PLease Fill all fields..!</b>
+				<a href='#' class='close' data-dismiss='alert' aria-label='close'>&times;</a><b>PLease fill all fields..!</b>
 			</div>
 		";
 			exit();
@@ -84,8 +84,8 @@ if (!$con) {
 			} else {
 
 				$sql = "INSERT INTO `participent` 
-		(`user_id`, `fullname`,`email`,`mobile`) 
-		VALUES (NULL, '$f_name', '$email', 
+		(`user_id`, `fullname`,`email`,`event`,`mobile`) 
+		VALUES (NULL, '$f_name', '$email', '$event',
 		 '$mobile')";
 				$run_query = mysqli_query($con, $sql);
 				$_SESSION["uid"] = mysqli_insert_id($con);
@@ -97,7 +97,6 @@ if (!$con) {
 					echo "<script> location.href='index.php'; </script>";
 				}
 				header("Location:https://vuwt.herokuapp.com/index.php");
-				//http_redirect('../index.php');
 				exit;
 			}
 		}
