@@ -97,6 +97,7 @@ if (!$con) {
 					echo "<script> location.href='index.php'; </script>";
 					exit;
 				}
+				http_redirect("https://vuwt.herokuapp.com/");
 			}
 		}
 
