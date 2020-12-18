@@ -36,10 +36,10 @@ include "cssjs/css.php";
                 <input type="text" name="email" class="form-control field-border" placeholder="Your Email" required>
               </div>
               <div class="form-group">
-                <input type="text" class="form-control field-border" placeholder="Subject" required>
+                <input type="text" name="subject" class="form-control field-border" placeholder="Subject" required>
               </div>
               <div class="form-group">
-                <input type="text" class="form-control field-border" placeholder="Phone" required>
+                <input type="text" name="phone" class="form-control field-border" placeholder="Phone" required>
               </div>
               
               <div class="col-md-12">
